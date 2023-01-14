@@ -388,6 +388,7 @@
 		<module>liteflow-spring-boot-starter</module>
 		<module>liteflow-spring</module>
 		<module>liteflow-testcase-el</module>
+		<module>liteflow-samples</module>
 	</modules>
 
 	<distributionManagement>
