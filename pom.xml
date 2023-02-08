@@ -389,6 +389,7 @@
 		<module>liteflow-spring</module>
 		<module>liteflow-testcase-el</module>
 		<module>liteflow-samples</module>
+		<module>liteflow-loader</module>
 	</modules>
 
 	<distributionManagement>

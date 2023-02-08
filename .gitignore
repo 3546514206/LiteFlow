@@ -81,3 +81,4 @@ atlassian-ide-plugin.xml
 */logs
 
 .flattened-pom.xml
+/liteflow-loader/liteflow-spring-boot/target/
