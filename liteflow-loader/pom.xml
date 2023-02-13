@@ -12,6 +12,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>liteflow-spring-boot</module>
+        <module>liteflow-base-demo</module>
     </modules>
 
     <artifactId>liteflow-loader</artifactId>

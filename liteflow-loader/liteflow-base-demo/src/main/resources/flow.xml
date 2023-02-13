@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flow>
+    <nodes>
+        <node id="pre" class="edu.zjnu.PreNode"/>
+        <node id="mid" class="edu.zjnu.MidNode"/>
+        <node id="after" class="edu.zjnu.AfterNode"/>
+    </nodes>
+
+    <!--   非Spring环境  -->
+    <chain name="mychain">
+        <then value="pre,mid,after"/>
+    </chain>
+</flow>
